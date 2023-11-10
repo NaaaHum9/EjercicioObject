@@ -1,0 +1,14 @@
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\bin\Debug\net7.0\ejercicio presentacion.exe
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\bin\Debug\net7.0\ejercicio presentacion.deps.json
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\bin\Debug\net7.0\ejercicio presentacion.runtimeconfig.json
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\bin\Debug\net7.0\ejercicio presentacion.dll
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\bin\Debug\net7.0\ejercicio presentacion.pdb
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\obj\Debug\net7.0\ejercicio presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\obj\Debug\net7.0\ejercicio presentacion.AssemblyInfoInputs.cache
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\obj\Debug\net7.0\ejercicio presentacion.AssemblyInfo.cs
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\obj\Debug\net7.0\ejercicio presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\obj\Debug\net7.0\ejercicio presentacion.dll
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\obj\Debug\net7.0\refint\ejercicio presentacion.dll
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\obj\Debug\net7.0\ejercicio presentacion.pdb
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\obj\Debug\net7.0\ejercicio presentacion.genruntimeconfig.cache
+C:\Users\jnvg9\OneDrive\Documentos\Escuela\Materias\Tercer semestre\Paradigmas de Programacion\ejercicio presentacion\obj\Debug\net7.0\ref\ejercicio presentacion.dll
