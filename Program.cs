@@ -10,6 +10,11 @@ namespace claseObject
             Motocicleta chopper = new Motocicleta();
             Camion remolque = new Camion();
 
+            Console.WriteLine("Caracteristicas sedan: " + sedan.movilidad);
+            Console.WriteLine("Caracteristicas de la motocicleta: " + chopper);
+            Console.WriteLine("Caracteristicas camion: " + remolque);
+            Console.WriteLine();
+
             // Ejemplos de métodos básicos de la clase object
             Console.WriteLine("ToString del Automovil: " + sedan.ToString());
             Console.WriteLine("HashCode del Motocicleta: " + chopper.GetHashCode());
